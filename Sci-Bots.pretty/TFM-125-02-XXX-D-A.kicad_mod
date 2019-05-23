@@ -1,4 +1,4 @@
-(module SFM-125-02-XXX-D-A (layer F.Cu) (tedit 5C774B2E)
+(module TFM-125-02-XXX-D-A (layer F.Cu) (tedit 5C774B75)
   (descr "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
   (tags "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
   (attr smd)
